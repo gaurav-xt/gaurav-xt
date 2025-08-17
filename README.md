@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav Tambare
 
-Email Me ✉️ **gauravtambare7@gmail.com** For Collaboration/Project or Anything Else
+Passionate full-stack developer focusing on building scalable web apps with modern tools
 
 ## Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@gvrcore)  <br/> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravtamabare7@gmail.com) 
