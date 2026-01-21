@@ -1,6 +1,9 @@
-<h2> Heyy, I'm Gaurav Tambare </h2>
+   **Heyy, I'm Gaurav Tambare** 
 
-Passionate full-stack developer focusing on building scalable web apps with modern tools
+- Computer Science undergraduate</br>
 
+  Currently learning `Java` and  `Data Structures & Algorithms`
+
+  
 
 
