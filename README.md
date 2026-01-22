@@ -2,7 +2,7 @@
 
 - Computer Science undergraduate</br>
 
-  Currently learning `Java` and  `Data Structures & Algorithms`
+  Currently learning `Java` and  `Data Structures & Algorithms` 
 
   
 
